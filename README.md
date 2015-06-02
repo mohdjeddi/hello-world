@@ -1,2 +1,2 @@
 # hello-world
-my First Rep
+I love to be a geek
